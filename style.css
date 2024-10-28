@@ -108,7 +108,8 @@ nav button i{
 .hero > img{
     max-width: 520px;
     width: 44%;
-    border-radius: 26px;
+    border-radius: 75px;
+    margin-right: 9%;
 }
 
 .hero .left-section{
